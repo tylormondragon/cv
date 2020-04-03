@@ -23,3 +23,15 @@ h1 {
 h3 {
   color:#005082;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #000839;
+}
+
+a:hover {
+  color: #ffa41b;
+}
